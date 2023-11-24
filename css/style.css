@@ -2,7 +2,9 @@
 @import 'https://fonts.googleapis.com/css?family=Fauna+One';
 
 /*---------- Global Style ----------*/
-
+.container a {
+	text-decoration: underline;
+}
 body {
     color: #222;
     font-family: 'Fauna One', serif;
